@@ -1,0 +1,9 @@
+Parameter,Value,Notes
+Frequency (GHz),60,Primary PTP
+Distance (km),,
+TX Power (dBm),,
+TX Antenna Gain (dBi),,
+RX Antenna Gain (dBi),,
+FSPL (dB),,calc offline
+Fade margin (dB),,target >= 10
+Expected RSSI (dBm),,
